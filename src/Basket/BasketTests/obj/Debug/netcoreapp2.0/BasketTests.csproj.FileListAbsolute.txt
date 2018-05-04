@@ -1,0 +1,17 @@
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.csprojResolveAssemblyReference.cache
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.csproj.CoreCompileInputs.cache
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.AssemblyInfoInputs.cache
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.AssemblyInfo.cs
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\BasketTests.deps.json
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\BasketTests.runtimeconfig.json
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\BasketTests.runtimeconfig.dev.json
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\BasketTests.dll
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\BasketTests.pdb
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\Basket.dll
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\Basket.pdb
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.csproj.CopyComplete
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.dll
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.pdb
