@@ -7,3 +7,4 @@ D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\Bask
 D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.AssemblyInfo.cs
 D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.dll
 D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.pdb
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\Basket\bin\Debug\netstandard2.0\articledatabase.json

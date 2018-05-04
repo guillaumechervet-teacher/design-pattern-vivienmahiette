@@ -15,3 +15,4 @@ D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\Bask
 D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.csproj.CopyComplete
 D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.dll
 D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\obj\Debug\netcoreapp2.0\BasketTests.pdb
+D:\Viviun\Documents\Cours_EPSI\Git\design-pattern-vivienmahiette\src\Basket\BasketTests\bin\Debug\netcoreapp2.0\articledatabase.json
